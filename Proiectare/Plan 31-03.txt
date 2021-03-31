@@ -28,7 +28,21 @@ Structura:
   
   Elemente de design: 
   
-  Optam pentru forme geometrice simple, game-like.
-  O schema de culori relaxanta pentru ochi si care sa poate scoate in evidenta elementele principale.
+  Optam pentru forme geometrice simple, game-like. Optam pentru o schema de culori relaxanta pentru ochi si care sa poate scoate in evidenta elementele principale. Alegem forme goale sau umplute ca si pattern de fundal pentru a sugera faptul ca site-ul nostru este un mediu creativ.
+  
+  Variante:
+  
+  Crem pe fundal + albastru pentru meniu + galben pentru butoane: 
+    - cremul este o culoare relaxanta pentru ochi, este culoarea pielii, o culoare calda si primitoare
+    - albastrul este o culoare calma, rece, pentru a fi in contrast cu culoarea crem
+    - galbenul este ales pentru a fi in contrast cu albastrul si a scoate in evidenta butoanele
+    
+  Verde pe fundal + mov pentru meniu + un galben mai portocaliu pentru butoane:
+    - verdele este o culoare relaxanta pentru ochi
+    - movul si galbenul sunt o pereche potrivita data fiind complementaritatea albastru-portocaliu
+    - movul si verdele creeaza un contrast rece-cald, placut pentru ochi
+    
+  Mov pe fundal + galben pentru selectii: 
+    - optam pentru variante de mov mai inchis + nuantele sale si o nuanta de galben pentru a scoate in evidenta elementele functionale si a crea o ambienta creativa
   
   
