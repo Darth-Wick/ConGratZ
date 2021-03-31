@@ -1,5 +1,3 @@
-31 Martie
-
 Decidem asupra elementelor de design, culori, plasare in pagina, numar de pagini.
 
 Structura: 
