@@ -28,5 +28,7 @@ Structura:
   
   Elemente de design: 
   
+  Optam pentru forme geometrice simple, game-like.
+  O schema de culori relaxanta pentru ochi si care sa poate scoate in evidenta elementele principale.
   
   
