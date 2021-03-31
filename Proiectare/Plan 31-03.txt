@@ -12,7 +12,7 @@ Structura:
       2.1.2 Crearea unei felicitari originale cu ajutorul elementelor puse la dispozitie in stanga paginii
     2.2 Selecatrea cartii de vizita va redirectiona utilizatorul spre pagina de selecare a crearii pe baza unui template sau originala
       2.2.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
-      2.2.2 Crearea uneimcarti de vizita originale cu ajutorul elementelor puse la dispozitie in stanga paginii
+      2.2.2 Crearea unei carti de vizita originale cu ajutorul elementelor puse la dispozitie in stanga paginii
       
    Elemente ale paginilor:
    
