@@ -2,15 +2,31 @@
 
 Decidem asupra elementelor de design, culori, plasare in pagina, numar de pagini.
 
-# Structura: 
+Structura: 
 
-  -8 pagini
-  -1. Prima pagina contine selectarea optiunii de a creea o felicitare sau o carte de vizita
-  -2. Selectarea felicitarii va redirectiona utilizatorul spre pagina de selectare a felicitarii
-    -2.1 Vei putea selecta un format predefinit sau poti selecta creearea unei felicitari originale
-      -2.1.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
-      -2.1.2 Crearea unei felicitari originale cu ajutorul elementelor puse la dispozitie in stanga paginii
-    -2.2 Selecatrea cartii de vizita va redirectiona utilizatorul spre pagina de selecare a cartii de vizita
-      -2.2.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
-      -2.2.2 Crearea uneimcarti de vizita originale cu ajutorul elementelor puse la dispozitie in stanga paginii
-    
+  7 pagini
+  1. Prima pagina contine selectarea optiunii de a creea o felicitare sau o carte de vizita
+  -Selecatrea oricarei dintre optiuni va redirectiona utilizatorul ca mai jos
+    2.1 Vei putea selecta un format predefinit sau poti selecta creearea unei felicitari originale
+      2.1.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
+      2.1.2 Crearea unei felicitari originale cu ajutorul elementelor puse la dispozitie in stanga paginii
+    2.2 Selecatrea cartii de vizita va redirectiona utilizatorul spre pagina de selecare a crearii pe baza unui template sau originala
+      2.2.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
+      2.2.2 Crearea uneimcarti de vizita originale cu ajutorul elementelor puse la dispozitie in stanga paginii
+      
+   Elemente ale paginilor:
+   
+   In meniul 1, unde utilizatorul poate alege creearea unei carti de vizita/felicitare, va exista un meniu cu aceste 2 optiuni, ce vor directiona utilizatorul la selectia metodei de creare.
+   
+   In meniurile 2.1 si 2.2, unde utilizatorul poate alege sa creeze de la 0 sau sa urmeze un template, va exista un meniu cu aceste 2 optiuni ce vor directiona utilizatorul spre paginile de editare.
+   
+   In paginile de template (2.1.1, 2.2.1) vor exista in partea stanga o serie de templates, utilizatorul putand schimba setul de culori, adaugarea unui text in campurile presetate.
+   
+   In paginile de editare (2.1.2, 2.2.2), in partea stanga se va afla meniul de editare, ce va contine categorii collapsable, cu elemente grafice simple, si de asemeni un buton de import pentru fisiere imagine/gif locale. In partea dreapta se va afla spatiul canvas, cu fundal grid, in care se vor putea asambla elementele. 
+  
+  Toate paginile de 2.x.y vor dispune de un buton Save/Send stanga jos al meniului de editare ce va permite utilizatorului sa salveze local creatia in format de tip imagine/PDF sau sa o trimita in format URL/prin email unui utilizator. Meniurile de editare vor contine elemente clasice de editare video Undo, Redo, Layers, Tools
+  
+  Elemente de design: 
+  
+  
+  
