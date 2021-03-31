@@ -1,3 +1,16 @@
 31 Martie
 
 Decidem asupra elementelor de design, culori, plasare in pagina, numar de pagini.
+
+#Structura: 
+
+  -8 pagini
+  -1. Prima pagina contine selectarea optiunii de a creea o felicitare sau o carte de vizita
+  -2. Selectarea felicitarii va redirectiona utilizatorul spre pagina de selectare a felicitarii
+    -2.1 Vei putea selecta un format predefinit sau poti selecta creearea unei felicitari originale
+      -2.1.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
+      -2.1.2 Crearea unei felicitari originale cu ajutorul elementelor puse la dispozitie in stanga paginii
+    -2.2 Selecatrea cartii de vizita va redirectiona utilizatorul spre pagina de selecare a cartii de vizita
+      -2.2.1 Variante predefinite in care se poate adauga un text in diversele campuri (titlu, destinatar, text) + presets de culori
+      -2.2.2 Crearea uneimcarti de vizita originale cu ajutorul elementelor puse la dispozitie in stanga paginii
+    
