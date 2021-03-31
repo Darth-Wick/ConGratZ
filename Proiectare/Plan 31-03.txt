@@ -2,7 +2,7 @@
 
 Decidem asupra elementelor de design, culori, plasare in pagina, numar de pagini.
 
-#Structura: 
+# Structura: 
 
   -8 pagini
   -1. Prima pagina contine selectarea optiunii de a creea o felicitare sau o carte de vizita
