@@ -1,76 +1,63 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #700491;
+    background-color: #2a003d;
 }
 .container{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background: rgb(72, 0, 121);
+    height: 25vw;
+    width: 50vw;
+    text-align: center;
 }
+
 .title{
     position:relative;
+    text-align: center;
     color: white;
-    font-family: "Harlow Solid";
-}
-.button{
-    position: relative;
-    height: 200%;
-    width: 100%;
-    display: block;
-    color: white;
-    font-size: 14px;
-    font-family: "montserrat";
-    text-decoration: none;
-    margin: 30px 0;
-    border: 2px solid rgba(255, 230, 7, 0.667);
-    padding: 14px 60px;
-    text-transform: uppercase;
-    overflow: hidden;
-    transition: 1s all ease;
-  }
-  .button::before{
-    background: #fff175;
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    z-index: -1;
-    transition: all 0.6s ease;
-  }
+    font-family: "Normal 400 Italic";
+    font-size: 2vw;
 
-  .b3::before{
-    width: 100%;
-    height: 0%;
-    transform: translate(-50%,-50%) rotate(45deg);
-  }
-  .b3:hover::before{
-    height: 380%;
-  }
+}
 
 a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-
-    text-decoration: none;
-    color: initial;
+    height: 12vw;
+    width: 15vw;
+    position:relative;
+    display:inline;
+    background: rgba(255, 231, 11, 0.767);
+    color:white;
+    font-size: 2vw;
     font-family: "Bradley Hand ITC";
-    font-size: 14px;
-    position: relative;
-    height: 200%;
-    width: 100%;
-    display: block;
-    color: white;
-    font-size: 14px;
-    font-family: "montserrat";
-    text-decoration: none;
-    margin: 30px 0;
-    border: 2px solid rgba(255, 230, 7, 0.667);
-    padding: 14px 60px;
-    text-transform: uppercase;
-    overflow: hidden;
-    transition: 1s all ease;
+    text-decoration:none;
+    margin: 1vw;
+    padding: 2vw;
+    overflow:hidden;
+
+}
+
+.button::before{
+  background: #ffde22;
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  z-index: -1;
+  transition: all 0.6s ease;
+}
+
+.b3::before{
+  width: 100%;
+  height: 0%;
+  transform: translate(-50%,-50%) rotate(45deg);
+}
+.b3:hover::before{
+  height: 250%;
 }
